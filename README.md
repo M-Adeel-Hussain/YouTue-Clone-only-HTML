@@ -16,7 +16,8 @@ This project is a simple **YouTube homepage clone** built using **pure HTML**. I
 This project is created for learning and practicing HTML layout skills. It's a great starting point for beginners looking to understand how real-world websites are structured.
 
 ### 📸 Screenshot:
-*(Add a screenshot of your project UI if possible)*
+![YT Clone](https://github.com/user-attachments/assets/b2eac9c5-b9bc-4542-a8e3-4767c6afd4c7)
+
 
 ### 🚀 How to Use:
 1. Clone the repository:
